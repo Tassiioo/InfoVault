@@ -1,7 +1,8 @@
-# Here are some of recomendations from me.
+# Learn & Think
+## Here are some of recomendations from me.
 
 
-## Useful URLs
+### Useful URLs
 * [Learning Styles](https://www.learning-styles-online.com) - The online platform dedicated to learning styles offers a wealth of resources to help individuals explore and utilize different approaches to learning. It provides comprehensive insights into visual, auditory, and kinesthetic learning preferences, enabling users to gain a deeper understanding of their individual strengths. By leveraging this knowledge, individuals can customize their study methods and enhance their overall learning experience. With practical tips and suggestions, this site serves as an invaluable tool for optimizing educational success based on individual learning styles.
 
 * [VARK](https://vark-learn.com) -  Is a fantastic website that provides valuable insights into different learning styles. With its comprehensive assessment tool, individuals can discover their preferred learning style—visual, auditory, reading/writing, or kinesthetic. Armed with this knowledge, users can customize their study techniques and approaches to enhance their learning experience. Additionally, the site offers practical tips and strategies tailored to each learning style, empowering learners to optimize their educational journey and achieve greater success. VARK-Learn.com is a valuable resource for anyone seeking to understand and leverage their unique learning strengths.
@@ -16,7 +17,7 @@
 ![](https://64.media.tumblr.com/0ea9993dea92630062bebe4caffa055e/e4788c4178b2290e-9d/s640x960/baa9d4375a7404b2961a9b320e2efcfebe59e8cd.jpg)
 
 
-## Useful Books
+### Useful Books
 * [HOW TO IMPROVE MEMORY | THE ULTIMATE MIND POWER MANUAL](https://www.amazon.com/How-Improve-Memory-Exercises-Sculpting-ebook/dp/B00B2SKRB6) - This is an invaluable resource for anyone seeking to enhance their memory and unlock the full potential of their mind. This comprehensive guide presents a wealth of practical techniques and brain exercises that are easy to understand and apply in daily life. The author provides clear explanations and step-by-step instructions, making it accessible even for beginners. What sets this book apart is its emphasis on holistic approaches to memory improvement, including strategies for mental focus, concentration, and mindfulness. By incorporating these exercises into your routine, you can sharpen your memory, boost your cognitive abilities, and achieve greater mental clarity. Whether you're a student looking to excel academically or an individual seeking to maintain cognitive health, this book is an indispensable tool for mastering your mind power and unlocking your memory's true potential.
 
 * [The Socrates Express](https://ericweinerbooks.com/books/the-socrates-express/) - This book is an enlightening and challenging journey into philosophy that has given me a new perspective on life and an insatiable desire to delve further into the realm of philosophical inquiry. Weiner takes us on a thrilling train ride to various destinations, both physical and philosophical, as he explores the wisdom of great thinkers like Socrates. Through his engaging narrative and witty anecdotes, Weiner effortlessly bridges the gap between ancient philosophy and the modern world, making complex concepts accessible and relevant. This book not only broadened my understanding of philosophy, but also encouraged me to question my own assumptions and explore the depths of my own beliefs. It left me with a deep appreciation for the power of critical thinking and a thirst for further exploration of philosophical ideas. Socrates' Express is a remarkable literary gem that will reignite your curiosity and leave you with a deeper understanding of yourself and the world around you.
