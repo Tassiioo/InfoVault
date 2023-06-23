@@ -15,7 +15,7 @@
 
 * [A New Look at Habits and the Habit–Goal Interface](https://dornsife.usc.edu/assets/sites/545/docs/Wendy_Wood_Research_Articles/Habits/wood.neal.2007psychrev_a_new_look_at_habits_and_the_interface_between_habits_and_goals.pdf) - This research article offers valuable insights on habits and their relationship with goals. This resource provides a fresh perspective that can help individuals better understand the dynamics of habits and how they impact goal attainment.
 
-*[Learning to Learn](https://www.montana.edu/rmaher/barrier_courses/Learning%20to%20Learn%20Wirth.pdf) - The resource titled "Learning to Learn" by Karl R. Wirth and Dexter Perkins is an invaluable guide for developing effective learning strategies. This comprehensive resource offers practical insights and techniques to overcome learning barriers and maximize academic or professional success. It equips individuals with the tools and knowledge needed to optimize their learning process and enhance their overall educational experience.
+* [Learning to Learn](https://www.montana.edu/rmaher/barrier_courses/Learning%20to%20Learn%20Wirth.pdf) - The resource titled "Learning to Learn" by Karl R. Wirth and Dexter Perkins is an invaluable guide for developing effective learning strategies. This comprehensive resource offers practical insights and techniques to overcome learning barriers and maximize academic or professional success. It equips individuals with the tools and knowledge needed to optimize their learning process and enhance their overall educational experience.
 
 
 ![](https://64.media.tumblr.com/0ea9993dea92630062bebe4caffa055e/e4788c4178b2290e-9d/s640x960/baa9d4375a7404b2961a9b320e2efcfebe59e8cd.jpg)
