@@ -1,5 +1,5 @@
-# Learn & Think
-## Here are some of recomendations from me.
+# Learn & Think | Adopt Information
+## *Here are some of recomendations from me.*
 
 
 ### Useful URLs
